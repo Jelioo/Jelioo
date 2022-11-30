@@ -2,7 +2,7 @@
 - Hoje estou desempregado, mas tenho noção de front-end
 - Estudando T.I e Design
 - Contate-me no email: juliocesartrc134@gmail.com
-- Pronouns: Ele/Dele
+
 
 <div align="center">
   <a href="https://github.com/Jelioo">
